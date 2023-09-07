@@ -1,1 +1,2 @@
 # Web-scrapping-of-British-Airways-Reviews
+The inaugural assignment within the realm of data science for British Airways involved a comprehensive exploration of data, which was undertaken with precision and expertise. This inaugural task was executed flawlessly, harnessing a diverse skill set that encompassed proficiency in Python programming, data science methodologies, web scraping, and meticulous data cleansing.
